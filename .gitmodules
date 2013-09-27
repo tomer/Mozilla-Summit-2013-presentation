@@ -9,4 +9,4 @@
 	url = https://github.com/shower/shower.git
 [submodule "themes/mozilla"]
 	path = themes/mozilla
-	url = git@github.com:tomer/mozilla-shower-theme.git
+	url = https://github.com/tomer/mozilla-shower-theme.git
