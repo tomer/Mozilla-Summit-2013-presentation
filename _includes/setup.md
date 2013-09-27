@@ -16,4 +16,5 @@
 
 {% capture fork_url %}{% if page.fork_url %}{{ page.fork_url }}{% else %}{{ site.fork_url }}{% endif %}{% endcapture %}
 {% capture progress %}{% if page.progress %}{{ page.progress }}{% else %}{{ site.progress }}{% endif %}{% endcapture %}
+{% capture togetherjs %}{% if page.togetherjs %}{{ page.togetherjs }}{% else %}{{ site.togetherjs }}{% endif %}{% endcapture %}
 {% endcapture %}

@@ -1,0 +1,26 @@
+<!DOCTYPE HTML>{% capture showerify_input %}{{ content }}{% endcapture %}{% include showerify.html %}{% include setup.md %}
+<html lang="{{ lang }}">
+<head>
+	<title>{{ title | strip_html }}</title>
+	<meta charset="utf-8">
+  <meta name="viewport" content="width={% if width %}{{ width }}{% else %}792{% endif %}, user-scalable=no">
+	<link rel="stylesheet" href="themes/{{ theme }}/styles/screen.css">
+	{% if page.style %}<style>
+{{ page.style }}</style>{%endif%}
+</head>
+<body class="{{ body_class }}">
+	<header class="caption">
+		<h1>{{ title }}</h1>
+		{% if subtitle %}{{ subtitle }}{% endif %}
+		{% if togetherjs %}<button onclick="TogetherJS(this); return false;">Start TogetherJS</button>{% endif %}
+	</header>
+
+	{{ showerify_output }}
+
+	{% if fork_url != '' %}<p class="badge"><a href="{{ fork_url }}">Fork me on Github</a></p>{% endif %}
+	{% if progress %}<div class="progress"><div></div></div>{% endif %}
+	<script src="shower/shower.min.js"></script>
+	{% if togetherjs %}<script src="https://togetherjs.com/togetherjs-min.js"></script>{% endif %}
+	<!-- Copyright © {{ site.time | date: "%Y" }} {{ author_name }}{% if author_url != '' %} — {{ author_url }}{% endif %}{% if company_name != '' %}, {{ company_name }}{% if company_url != '' %} — {{ company_url }}{% endif %}{% endif %} -->
+</body>
+</html>
