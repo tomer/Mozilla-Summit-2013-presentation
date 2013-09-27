@@ -3,7 +3,7 @@ markdown: kramdown
 pygments: true
 permalink: /:title.html
 
-default_theme: ribbon
+default_theme: mozilla
 default_width: 792
 default_lang: en
 default_body_class: list
@@ -13,7 +13,7 @@ author:
     # url:  http://example.com/
     company:
         name: Mozilla Israel
-        # url:  http://example.com/
+        url:  http://mozilla.org.il/
 
-#fork_url: https://github.com/shower/shower
+fork_url: https://github.com/MozillaIsrael/Mozilla-Summit-2013-presentation
 progress: true
