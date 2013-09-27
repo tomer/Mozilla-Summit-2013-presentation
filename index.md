@@ -37,6 +37,7 @@ style: |
     
     .slide, .full { background: none; }
     
+    .slide img {max-width: 100%; max-height: 100%}
     .slide.cover img {width: 100%; height: 100%}
 ---
 
