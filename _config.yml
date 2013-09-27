@@ -3,7 +3,7 @@ markdown: kramdown
 pygments: true
 permalink: /:title.html
 
-default_theme: mozilla
+default_theme: bright 
 default_width: 792
 default_lang: en
 default_body_class: list
@@ -17,3 +17,5 @@ author:
 
 fork_url: https://github.com/MozillaIsrael/Mozilla-Summit-2013-presentation
 progress: true
+
+togetherjs: true
