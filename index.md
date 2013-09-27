@@ -1,6 +1,6 @@
 ---
 
-layout: default
+layout: mozilla
 
 style: |
 
@@ -30,9 +30,13 @@ style: |
         width:0.72em;
         height:0.72em;
         }
+        
+        
+        
+    .slide, html { background: url(themes/mozilla/images/bg-sandstone-2.png) }
+    
+    .slide, .full { background: none; }
 ---
-<script src="https://togetherjs.com/togetherjs-min.js"></script>
-
 
 # Mozilla in Israel {#Cover}
 
@@ -40,7 +44,6 @@ style: |
 
 ![](pictures/cover.jpg)
 <!-- photo by John Carey, fiftyfootshadows.net -->
-<button onclick="TogetherJS(this); return false;">Start TogetherJS</button>
 
 ## Welcome to Israel
 
