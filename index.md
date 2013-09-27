@@ -1,6 +1,6 @@
 ---
 
-layout: mozilla
+layout: default 
 
 style: |
 
@@ -36,37 +36,49 @@ style: |
     .slide, html { background: url(themes/mozilla/images/bg-sandstone-2.png) }
     
     .slide, .full { background: none; }
+    
+    .slide.cover img {width: 100%; height: 100%}
 ---
 
-# Mozilla in Israel {#Cover}
+# Mozilla in Israel  
+{:#Cover data-timing="00:10"}
 
 *Mozilla Summit 2013 World Expo*
+![](pictures/israel/flag-cover.jpg)
 
-![](pictures/cover.jpg)
-<!-- photo by John Carey, fiftyfootshadows.net -->
+{:.cover}
 
-## Welcome to Israel
+## Welcome to Israel 
+{: data-timing="00:10"}
 
-<!-- TODO -->
+// <!-- TODO -->
 
 {:.note}
 Add content to these slides, please.
 
 
-## Mozilla in Israel
+## Mozilla in Israel 
+{: data-timing="00:10"}
 
 * 11 [registered mozillians](https://mozillians.org/country/il/)
 * 3 [registered Mozilla Reps](https://reps.mozilla.org/people/#/country/israel/)
 
 ## Core team members 
+{: data-timing="00:10"}
 
-| Name         | Position                                                | Current location           
+| Name         | Position                                                | Current location
 |:------------:|:-------------------------------------------------------:|:-----------------------------------:|
 | [Amiad]      | Translation, support & RTL bugs hunter                  | Stayed at home; available on [IRC]
 | [Amir]       | [Rep mentor][ar], i18n expert                           | @Mozilla Summit Santa-Clara 
-| [Elad]       | [Rep][er], team's go-to guy for gnome and Fedora things | @Mozilla Summit Toronto    
+| [Elad]       | [Rep][er], team's go-to guy for gnome and Fedora things | @Mozilla Summit Toronto
+
+## Core team members 
+{: data-timing="00:10"}
+
+| Name         | Position                                                | Current location
+|:------------:|:-------------------------------------------------------:|:-----------------------------------:|
 | [Simon]      | Mozilla employee                                        | @Mozilla Summit Brussels
-| [Tomer]      | Team lead, [ReMo][tr]                                   | @Mozilla Summit Toronto     
+| [Tomer]      | Team lead, [ReMo][tr]                                   | @Mozilla Summit Toronto
 | [Yaron]      | Translator and Activist                                 | @Mozilla Summit Toronto
 |==============|=========================================================|====================================
 | Could be you 
@@ -81,36 +93,49 @@ Add content to these slides, please.
 
 [IRC]: irc://irc.mozilla.org/mozilla.il
 
-## Browser usage statistics
+[tr]: http://reps.mozilla.org/u/tomer/
+[er]: http://reps.mozilla.org/u/elad/
+[ar]: http://reps.mozilla.org/u/aharoni/
 
-<!-- TODO --> 
+## Browser usage statistics 
+{: data-timing="00:10"}
 
-## Localization
+// <!-- TODO --> 
 
-<!-- TODO --> 
+## Localization 
+{: data-timing="00:10"}
 
-## Mozilla Firefox
+// <!-- TODO --> 
 
-<!-- TODO -->
+## Mozilla Firefox 
+{: data-timing="00:10"}
 
-## Mozilla Firefox for Android
+// <!-- TODO -->
+
+## Mozilla Firefox for Android 
+{: data-timing="00:10"}
 
 * Has some issues that affect local users, including —
    * Problems with selecting text on page
    * Sites that doesn't provide good mobile web experience and suggest users to use their native application
 * Number of users with the Hebrew locale: Zero – The Hebrew locale is not enabled, although we have translated it and commited files to Mercurial in the past.
 
+## Mozilla Firefox for Android 
+{: data-timing="00:10"}
 
 [![Availability of Firefox for Android in Hebrew](images/Hebrew-Firefox-For-Android.png)](https://support.mozilla.org/questions/969425)
 
-## Firefox OS
+## Firefox OS 
+{: data-timing="00:10"}
 
 * Barely used in Israel although some fanatics owns FirefoxOS devices, and there is geeks interested in buying such devices.
 * Mozilla Israel members has few Keon devices. We use them to demo Firefox OS in various events. We are considering planning a Firefox OS hackathon.
 
-## Mozilla Israel in local events
+## Mozilla Israel in local events 
+{: data-timing="00:10"}
 
-## August Penguin
+## August Penguin 
+{: data-timing="00:10"}
 
 * [August Penguin][ap] is an annual multi-track users and developers conference dedicated to the local Open Source/Free Software community.
 * We demonstrated during the conference the advantages of Firefox for Android and Firefox OS, and held some talks with developers about the advantages of the web over regular mobile applications. 
@@ -122,7 +147,8 @@ Add content to these slides, please.
 
 [ap]: https://reps.mozilla.org/e/august-penguin-2013/
 
-## HTML5Fest
+## HTML5Fest 
+{: data-timing="00:10"}
 
 * HTML5Fest is a full day multi-track developers conference about web technologies, organized by the Israeli w3c office.
 * We were lucky enough [to participate] and talk about the open web during the conference. 
@@ -134,14 +160,16 @@ Add content to these slides, please.
 
 [to participate]: https://reps.mozilla.org/e/html5fest-2012/
 
-## Mozilla Israel online
+## Mozilla Israel online 
+{: data-timing="00:10"}
 
 We are running three domains and two websites - 
 
 * mozilla.org.il
 * firefox.co.il / firefox.org.il
 
-## firefox.co.il
+## firefox.co.il 
+{: data-timing="00:10"}
 
 * firefox.co.il
 A domain that was donated to us. Acts as a landing page and doesn't have its own content besides mozilla.org content on the main frame and a frame with some localized links on top
@@ -150,7 +178,8 @@ A domain that was donated to us. Links to mozilla.org. We don't really have an i
 
 [![firefox.co.il](images/firefox.co.il.png)](http://firefox.co.il)
 
-## mozilla.org.il
+## mozilla.org.il 
+{: data-timing="00:10"}
 
 Our main site. Has a news section (based on WordPress) and an active support forum (phpBB).
 
@@ -165,6 +194,7 @@ We want to convert the site to the new design at some point in the future and up
 [![Screenshot of our staging site](images/mozilla-il_stage.png)](http://stage.mozilla.org.il)
 
 ## Social presence 
+{: data-timing="00:10"}
 
    * [Facebook]     (https://facebook.com/MozillaIsrael) (1600 likes)
    * [Twitter]      (https://twitter.com/MozillaIsrael) (200+ followers)
