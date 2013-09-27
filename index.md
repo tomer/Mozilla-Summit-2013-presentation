@@ -31,6 +31,8 @@ style: |
         height:0.72em;
         }
 ---
+<script src="https://togetherjs.com/togetherjs-min.js"></script>
+
 
 # Mozilla in Israel {#Cover}
 
@@ -38,7 +40,7 @@ style: |
 
 ![](pictures/cover.jpg)
 <!-- photo by John Carey, fiftyfootshadows.net -->
-
+<button onclick="TogetherJS(this); return false;">Start TogetherJS</button>
 
 ## Welcome to Israel
 
