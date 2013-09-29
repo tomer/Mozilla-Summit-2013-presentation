@@ -141,25 +141,35 @@ Add content to these slides, please.
 * [August Penguin][ap] is an annual multi-track users and developers conference dedicated to the local Open Source/Free Software community.
 * We demonstrated during the conference the advantages of Firefox for Android and Firefox OS, and held some talks with developers about the advantages of the web over regular mobile applications. 
 * Mozilla Reps take part in all sorts of open source activity and most of them are well known among the Israeli community.
-* This photo below was taken when the stand was not crowded, otherwise the stand was simply hidden behind all the crowd.
+
+## August Penguin 
+{: data-timing="00:10"}
+
+* The photo below was taken when the stand was not crowded, otherwise the stand was simply hidden behind all the crowd.
 
 [![Mozilla at August Penguin 2013](pictures/events/ap2013/600_266635632.jpeg)](http://www.meetup.com/Open-Source-and-Free-Software-in-Israel/photos/16456742/266635632/)
 
 
 [ap]: https://reps.mozilla.org/e/august-penguin-2013/
 
-## HTML5Fest 
+## HTML5Fest 2012
 {: data-timing="00:10"}
 
 * HTML5Fest is a full day multi-track developers conference about web technologies, organized by the Israeli w3c office.
 * We were lucky enough [to participate] and talk about the open web during the conference. 
 * We also demonstrated Firefox OS on virtual machines to developers.
 
+[to participate]: https://reps.mozilla.org/e/html5fest-2012/
+
+
+## HTML5Fest 2012
+{:.cover}
+{: data-timing="00:10"}
 
 [![Mozilla on HTML5Fest2012](pictures/events/html5fest2012/706234_492487864116048_654078321_o.jpg)](https://www.facebook.com/media/set/?set=a.492179697480198.114004.108520769179428&type=3)
 
 
-[to participate]: https://reps.mozilla.org/e/html5fest-2012/
+
 
 ## Mozilla Israel online 
 {: data-timing="00:10"}
@@ -197,9 +207,14 @@ We want to convert the site to the new design at some point in the future and up
 ## Social presence 
 {: data-timing="00:10"}
 
-   * [Facebook]     (https://facebook.com/MozillaIsrael) (1600 likes)
-   * [Twitter]      (https://twitter.com/MozillaIsrael) (200+ followers)
-   * [Google Plus]  (https://plus.google.com/+MozillaIsrael) (70 members)
+   * [Facebook]     (MozillaIsrael) (1600+ likes)
+   * [Twitter]      (@MozillaIsrael) (200+ followers)
+   * [Google Plus]  (+MozillaIsrael) (70 members)
+
+[Facebook]:https://facebook.com/MozillaIsrael
+[Twitter]:https://twitter.com/MozillaIsrael
+[Google Plus]:https://plus.google.com/+MozillaIsrael
+
 
 Google Plus is mostly abandoned because it requires manual updating. 
 
