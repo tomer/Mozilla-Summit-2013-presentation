@@ -241,3 +241,9 @@ Work started. Expected to be awesome!
 Google Plus is mostly abandoned because it requires manual updating. 
 
 Twitter and Facebook aggregate new posts from our site, as well as forum threads that receive after they pass a specified replies threshold using a custom script.
+
+
+
+## ‎‎‎
+
+[⇦ Back to start](#Cover)
