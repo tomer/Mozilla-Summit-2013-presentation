@@ -110,6 +110,10 @@ Add content to these slides, please.
 ## Localization 
 {: data-timing="00:10"}
 
+* We've used Narro for some time.
+* Now evaluating the service offered by Transifex.
+* Other locales are welcome to join us.
+
 // <!-- TODO --> 
 
 ## Mozilla Firefox 
