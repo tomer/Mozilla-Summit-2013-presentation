@@ -39,6 +39,10 @@ style: |
     
     .slide img {max-width: 100%; max-height: 100%}
     .slide.cover img {width: 100%; height: 100%}
+    
+    .slide > div { padding: 25px 96px 0px 128px; } /* Start heading upper than default */
+    
+    .slide.cover { background: none } /* Remove black background */
 ---
 
 # Mozilla in Israel  
@@ -174,20 +178,23 @@ Add content to these slides, please.
 ## Mozilla Israel online 
 {: data-timing="00:10"}
 
-We are running three domains and two websites - 
+We are running three domains and two websites –
 
-* mozilla.org.il
-* firefox.co.il / firefox.org.il
+* [mozilla.org.il](#mozillaorgil)
+* [firefox.co.il](#firefoxcoil) / firefox.org.il
 
 ## firefox.co.il 
 {: data-timing="00:10"}
 
-* firefox.co.il
-A domain that was donated to us. Acts as a landing page and doesn't have its own content besides mozilla.org content on the main frame and a frame with some localized links on top
-* firefox.org.il
+[![firefox.co.il](images/firefox.co.il.png)](http://firefox.co.il)
+{: style="width: 66%; float: right; "}
+
+* [firefox.co.il](http://firefox.co.il)
+A domain that was donated to us. Acts as a landing page and doesn't have its own content besides mozilla.org with some localized links on top
+* [firefox.org.il](http://firefox.org.il)
 A domain that was donated to us. Links to mozilla.org. We don't really have an idea what to place there…
 
-[![firefox.co.il](images/firefox.co.il.png)](http://firefox.co.il)
+
 
 ## mozilla.org.il 
 {: data-timing="00:10"}
@@ -195,14 +202,29 @@ A domain that was donated to us. Links to mozilla.org. We don't really have an i
 Our main site. Has a news section (based on WordPress) and an active support forum (phpBB).
 
 [![Screenshot of mozilla.org.il](images/mozilla-il_website.png)](http://mozilla.org.il)
+{: style="width: 66%"}
 
+## mozilla.org.il (on-going development site)
+{: data-timing="00:10"}
 The site has a few static pages which are outdated for few years now, but we placed a script that update version information and download links based on the products version API from mozilla.org.
 
 We want to convert the site to the new design at some point in the future and update some of the site content.
 
+## mozilla.org.il (on-going development site)
+{: data-timing="00:10"}
 [![Screenshot of mozilla.org.il unofficial phpbb theme with MCS look](images/mozilla-il_phpbb.png)](http://mozilla.org.il/board)
+{: style="width: 45%; float: left" }
 
 [![Screenshot of our staging site](images/mozilla-il_stage.png)](http://stage.mozilla.org.il)
+{: style="width: 45%; float: left" }
+
+## mozilla.org/he/
+{: data-timing="00:10"}
+
+Work started. Expected to be awesome!
+
+[![Screenshot of mozilla.org/he/ development website](images/mozilla.org.he.png)](https://www-demo3.allizom.org/b/he/?v=1)
+{: style="width: 66%"}
 
 ## Social presence 
 {: data-timing="00:10"}
