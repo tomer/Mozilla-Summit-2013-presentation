@@ -67,6 +67,7 @@ Add content to these slides, please.
 
 * 11 [registered mozillians](https://mozillians.org/country/il/)
 * 3 [registered Mozilla Reps](https://reps.mozilla.org/people/#/country/israel/)
+* Three [domains](#mozillaisraelonline), Three social networking [profiles](#social)
 
 ## Core team members 
 {: data-timing="00:10"}
@@ -105,7 +106,16 @@ Add content to these slides, please.
 ## Browser usage statistics 
 {: data-timing="00:10"}
 
-// <!-- TODO --> 
+* Hebrew locale lose 30% of its userbase in the last two years. 
+* English locale won 40% of its userbase at the same time. (Data: MozMetrics/Block list)
+* Is it because users prefer the en-US locale, or novice users switching to Google Chrome?
+
+## Browser usage statistics
+{: data-timing="00:10"}
+
+[![StatCounter data](pictures/data/browser-IL-monthly-200908-201308.svg)](http://gs.statcounter.com/?chart_type=line&statType_hidden=browser&region=israel&region_hidden=#browser-IL-daily-20100901-20130901)
+
+(Source: StatCounter)
 
 ## Localization 
 {: data-timing="00:10"}
@@ -143,6 +153,12 @@ Add content to these slides, please.
 ## Mozilla Israel in local events 
 {: data-timing="00:10"}
 
+* [August Penguin 2013](#augustpenguin) 
+* [HTML5Fest](#html5fest) 2012
+* IN'13 
+* Icon/Olamot
+
+
 ## August Penguin 
 {: data-timing="00:10"}
 
@@ -179,6 +195,8 @@ Add content to these slides, please.
 
 
 
+
+
 ## Mozilla Israel online 
 {: data-timing="00:10"}
 
@@ -186,6 +204,7 @@ We are running three domains and two websites –
 
 * [mozilla.org.il](#mozillaorgil)
 * [firefox.co.il](#firefoxcoil) / firefox.org.il
+* In addition, we have localized [mozilla.org](#mozillaorghe)…
 
 ## firefox.co.il 
 {: data-timing="00:10"}
@@ -231,7 +250,7 @@ Work started. Expected to be awesome!
 {: style="width: 66%"}
 
 ## Social presence 
-{: data-timing="00:10"}
+{: #social data-timing="00:10"}
 
    * [Facebook]     (MozillaIsrael) (1600+ likes)
    * [Twitter]      (@MozillaIsrael) (200+ followers)
