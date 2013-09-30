@@ -60,9 +60,9 @@ style: |
 
 // <!-- TODO -->
 
-{:.note}
-Add content to these slides, please.
 
+Add content to these slides, please.
+{:.note}
 
 ## Mozilla in Israel 
 {: data-timing="00:10"}
@@ -105,20 +105,6 @@ Add content to these slides, please.
 [er]: http://reps.mozilla.org/u/elad/
 [ar]: http://reps.mozilla.org/u/aharoni/
 
-## Browser usage statistics 
-{: data-timing="00:10"}
-
-* Hebrew locale lose 30% of its userbase in the last two years. 
-* English locale won 40% of its userbase at the same time. (Data: MozMetrics/Block list)
-* Is it because users prefer the en-US locale, or novice users switching to Google Chrome?
-
-## Browser usage statistics
-{: data-timing="00:10"}
-
-[![StatCounter data](pictures/data/browser-IL-monthly-200908-201308.svg)](http://gs.statcounter.com/?chart_type=line&statType_hidden=browser&region=israel&region_hidden=#browser-IL-daily-20100901-20130901)
-
-(Source: StatCounter)
-
 ## Localization 
 {: data-timing="00:10"}
 
@@ -126,12 +112,19 @@ Add content to these slides, please.
 * Now evaluating the service offered by Transifex.
 * Other locales are welcome to join us.
 
-// <!-- TODO --> 
-
-## Mozilla Firefox 
+## Mozilla Firefox
 {: data-timing="00:10"}
 
-// <!-- TODO -->
+* Hebrew locale lose 30% of its userbase in the last two years. 
+* English locale won 40% of its userbase at the same time. (Data: MozMetrics/Block list)
+* Is it because users prefer the en-US locale, or novice users switching to Google Chrome?
+
+## Mozilla Firefox
+{: data-timing="00:10"}
+
+[![StatCounter data](pictures/data/browser-IL-monthly-200908-201308.svg)](http://gs.statcounter.com/?chart_type=line&statType_hidden=browser&region=israel&region_hidden=#browser-IL-daily-20100901-20130901)
+
+(Source: StatCounter)
 
 ## Mozilla Firefox for Android 
 {: data-timing="00:10"}
