@@ -45,6 +45,7 @@ style: |
     .slide.cover { background: none } /* Remove black background */
     
     .shout a { color: rgba(255,255,255,0.5); text-decoration: none;}
+    .slide.shout { background: none; }
 ---
 
 # Mozilla in Israel  
@@ -72,7 +73,7 @@ Add content to these slides, please.
 * Three [domains](#mozillaisraelonline), Three social networking [profiles](#social)
 
 ## Core team members 
-{: data-timing="00:10"}
+{: data-timing="00:10" #team1}
 
 | Name         | Position                                                | Current location
 |:------------:|:-------------------------------------------------------:|:-----------------------------------:|
@@ -81,7 +82,7 @@ Add content to these slides, please.
 | [Elad]       | [Rep][er], team's go-to guy for gnome and Fedora things | @Mozilla Summit Toronto
 
 ## Core team members 
-{: data-timing="00:10"}
+{: data-timing="00:10" #team2}
 
 | Name         | Position                                                | Current location
 |:------------:|:-------------------------------------------------------:|:-----------------------------------:|
@@ -106,28 +107,28 @@ Add content to these slides, please.
 [ar]: http://reps.mozilla.org/u/aharoni/
 
 ## Localization 
-{: data-timing="00:10"}
+{: data-timing="00:10" #l10n}
 
 * We've used Narro for some time.
 * Now evaluating the service offered by Transifex.
 * Other locales are welcome to join us.
 
 ## Mozilla Firefox
-{: data-timing="00:10"}
+{: data-timing="00:10" #firefox}
 
 * Hebrew locale lose 30% of its userbase in the last two years. 
 * English locale won 40% of its userbase at the same time. (Data: MozMetrics/Block list)
 * Is it because users prefer the en-US locale, or novice users switching to Google Chrome?
 
 ## Mozilla Firefox
-{: data-timing="00:10"}
+{: data-timing="00:10" #firefox-2}
 
 [![StatCounter data](pictures/data/browser-IL-monthly-200908-201308.svg)](http://gs.statcounter.com/?chart_type=line&statType_hidden=browser&region=israel&region_hidden=#browser-IL-daily-20100901-20130901)
 
 (Source: StatCounter)
 
 ## Mozilla Firefox for Android 
-{: data-timing="00:10"}
+{: data-timing="00:10" #firefox-android}
 
 * Has some issues that affect local users, including —
    * Problems with selecting text on page
@@ -135,18 +136,18 @@ Add content to these slides, please.
 * Number of users with the Hebrew locale: Zero – The Hebrew locale is not enabled, although we have translated it and commited files to Mercurial in the past.
 
 ## Mozilla Firefox for Android 
-{: data-timing="00:10"}
+{: data-timing="00:10" #firefox-android-2}
 
 [![Availability of Firefox for Android in Hebrew](images/Hebrew-Firefox-For-Android.png)](https://support.mozilla.org/questions/969425)
 
 ## Firefox OS 
-{: data-timing="00:10"}
+{: data-timing="00:10" #fxos}
 
 * Barely used in Israel although some fanatics owns FirefoxOS devices, and there is geeks interested in buying such devices.
 * Mozilla Israel members has few Keon devices. We use them to demo Firefox OS in various events. We are considering planning a Firefox OS hackathon.
 
 ## Mozilla Israel in local events 
-{: data-timing="00:10"}
+{: data-timing="00:10" .shout #events}
 
 * [August Penguin 2013](#augustpenguin) 
 * [HTML5Fest](#html5fest) 2012
@@ -155,14 +156,14 @@ Add content to these slides, please.
 
 
 ## August Penguin 
-{: data-timing="00:10"}
+{: data-timing="00:10" #ap2013}
 
 * [August Penguin][ap] is an annual multi-track users and developers conference dedicated to the local Open Source/Free Software community.
 * We demonstrated during the conference the advantages of Firefox for Android and Firefox OS, and held some talks with developers about the advantages of the web over regular mobile applications. 
 * Mozilla Reps take part in all sorts of open source activity and most of them are well known among the Israeli community.
 
 ## August Penguin 
-{: data-timing="00:10"}
+{: data-timing="00:10" #ap2013-2}
 
 * The photo below was taken when the stand was not crowded, otherwise the stand was simply hidden behind all the crowd.
 
@@ -172,7 +173,7 @@ Add content to these slides, please.
 [ap]: https://reps.mozilla.org/e/august-penguin-2013/
 
 ## HTML5Fest 2012
-{: data-timing="00:10"}
+{: data-timing="00:10" #html5fest}
 
 * HTML5Fest is a full day multi-track developers conference about web technologies, organized by the Israeli w3c office.
 * We were lucky enough [to participate] and talk about the open web during the conference. 
@@ -183,7 +184,7 @@ Add content to these slides, please.
 
 ## HTML5Fest 2012
 {:.cover}
-{: data-timing="00:10"}
+{: data-timing="00:10" #html5fest-2}
 
 [![Mozilla on HTML5Fest2012](pictures/events/html5fest2012/706234_492487864116048_654078321_o.jpg)](https://www.facebook.com/media/set/?set=a.492179697480198.114004.108520769179428&type=3)
 
@@ -193,7 +194,7 @@ Add content to these slides, please.
 
 
 ## Mozilla Israel online 
-{: data-timing="00:10"}
+{: data-timing="00:10" #online}
 
 We are running three domains and two websites –
 
