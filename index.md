@@ -147,9 +147,9 @@ Add content to these slides, please.
 * Mozilla Israel members has few Keon devices. We use them to demo Firefox OS in various events. We are considering planning a Firefox OS hackathon.
 
 ## Mozilla Israel in local events 
-{: data-timing="00:10" .shout #events}
+{: data-timing="00:10" #events}
 
-* [August Penguin 2013](#augustpenguin) 
+* [August Penguin 2013](#ap2013) 
 * [HTML5Fest](#html5fest) 2012
 * IN'13 
 * Icon/Olamot
