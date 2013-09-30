@@ -43,6 +43,8 @@ style: |
     .slide > div { padding: 25px 96px 0px 128px; } /* Start heading upper than default */
     
     .slide.cover { background: none } /* Remove black background */
+    
+    .shout a { color: rgba(255,255,255,0.5); text-decoration: none;}
 ---
 
 # Mozilla in Israel  
@@ -267,6 +269,5 @@ Twitter and Facebook aggregate new posts from our site, as well as forum threads
 
 
 
-## ‎‎‎
-
-[⇦ Back to start](#Cover)
+## ‎‎‎[⇦ Back to start](#Cover)
+{:.shout #final}
