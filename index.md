@@ -59,11 +59,10 @@ style: |
 ## Welcome to Israel 
 {: data-timing="00:10"}
 
-// <!-- TODO -->
+Founded in 1948
+Population: 7,587,000 (2010 estimate)
 
 
-Add content to these slides, please.
-{:.note}
 
 ## Mozilla in Israel 
 {: data-timing="00:10"}
