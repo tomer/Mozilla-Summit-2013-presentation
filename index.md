@@ -60,9 +60,60 @@ style: |
 {: data-timing="00:10"}
 
 Founded in 1948
-Population: 7,587,000 (2010 estimate)
+Population: 8,012,000 (2013 estimate)
+
+![](pictures/israel/The_Knesset.jpg)
+
+## Satellite view
+{: data-timing="00:10"}
+
+![](pictures/israel/sattelite.png)
+{: style="height:100%; float: right;" }
+
+Israel is a pretty small country lies to the shores of the Mediterranean sea, Right in the middle of middle east.
+
+## Tower of David
+{: data-timing="00:10"}
+
+![](pictures/israel/tower of david.jpg)
+
+## Jerusalem Chord Bridge
+{: data-timing="00:10"}
+
+![](pictures/israel/jerusalem chords bridge.jpg)
+
+## Rothschild Boulevard in the heart of Tel Aviv
+{: data-timing="00:10"}
+![](pictures/israel/Rothschild Boulevard.jpg)
+{: style="height:100%" }
+
+## Bahai Gardens in Haifa
+{: data-timing="00:10"}
+
+![](pictures/israel/bahai gardens.jpg)
+
+## View of Haifa industrial area
+{: data-timing="00:10"}
+
+![](pictures/israel/Haifa industrial area.jpg)
+
+## Sea of Galilee (lake Kinneret)
+{: data-timing="00:10"}
+
+![](pictures/israel/Kinneret.jpg)
 
 
+## Masada in the Judean desert 
+{: data-timing="00:10"}
+
+![](pictures/israel/Masada.jpg)
+
+## Mozilla Hummus!
+{: data-timing="00:10"} 
+cc-by-sa [@aharoni](https://twitter.com/aharoni) on Twitter ☺
+
+![](pictures/israel/MozillaHummus.jpg)
+{: style="height:70%"}
 
 ## Mozilla in Israel 
 {: data-timing="00:10"}
